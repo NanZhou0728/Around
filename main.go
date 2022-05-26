@@ -31,7 +31,9 @@ const (
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://34.136.66.129:9200/"
+	// Need to update if you restart instance.
+	ES_URL = "http://35.238.210.228:9200/"  
+
 )
 
 
